@@ -34,13 +34,13 @@ SQLite
 
 The dashboard is the main page of the Task Manager. It allows users to view their tasks and access the available task actions.
 
-![Dashboard]\(images/image.png)
+![Dashboard](images/dashboard.png)
 
 ## How the System Works**
 
 ### 1. Add Task**
 
-The user can add a new task by entering the task name, description, due date, and status. After clicking the **\*\*Add Task\*\*** button, the task is saved and displayed in the task list.
+The user can add a new task by entering the task name, description, due date, and status. After clicking the Add Task button, the task is saved and displayed in the task list.
 
 ### 2. View Tasks**
 
@@ -48,12 +48,12 @@ The dashboard displays all saved tasks. Users can view the task name, descriptio
 
 ### 3. Edit / Update Task**
 
-Users can edit an existing task by clicking the **\*\*Edit\*\*** button. They can update the task information and save the changes.
+Users can edit an existing task by clicking the Edit button. They can update the task information and save the changes.
 
 ### 4. Delete Task**
 
-Users can delete an existing task by clicking the **\*\*Delete\*\*** button. The selected task is removed from the task list.
+Users can delete an existing task by clicking the Delete button. The selected task is removed from the task list.
 
 ### 5. Update Status**
 
-Users can update the status of a task between **\*\*Pending\*\*** and **\*\*Completed\*\***. This allows users to keep track of which tasks are still pending and which tasks have been completed.
+Users can update the status of a task between Pending and Completed. This allows users to keep track of which tasks are still pending and which tasks have been completed.
