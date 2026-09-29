@@ -1,18 +1,25 @@
-## Task Manager
+# Personal Task Manager
 
-A simple Laravel-based Personal Task Manager.
+## Project Code
 
-## Project Information
+WST21-PM-2026-SF
 
-**Project Code:** WST21-PM-2026-SF
-**Student Name:** Christian Casimsiman 
-**Course & Year:** BSIT 2nd Year
-**Database Used:** SQLite 
+## Student Name
+
+Christian Casimsiman 
+
+## Course & Year
+
+BSIT - 2nd Year
+
+## Database Used
+
+SQLite
 
 ## Features
 
-✓ Add Task
-✓ View Tasks
-✓ Edit Task
-✓ Delete Task
-✓ Update Status
+- Add Task
+- View Tasks
+- Edit Task
+- Delete Task
+- Update Status
